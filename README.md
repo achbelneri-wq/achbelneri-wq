@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.gif" width="100%" />
+  <img src="header.gif" width="80%" />
 </div>
 
 # Hey there, I'm H4CK4RI 👋
@@ -74,5 +74,3 @@ I'm always interested in discussing security research, collaborating on security
 ---
 
 *"The best defense is a good offense."* ⚔️
-
-**~ H4CK4RI**
