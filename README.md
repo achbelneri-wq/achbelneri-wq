@@ -1,4 +1,4 @@
-# Salut, je suis Achbel SODJINOU 👋
+# Salut, je suis H4CK4RI 👋
 
 Bienvenue sur mon profil GitHub! Je suis passionné par le hacking éthique, la cybersécurité et la création de solutions amazones pour sécuriser le monde numérique.
 
@@ -22,7 +22,7 @@ Je suis un hacker éthique et spécialiste en cybersécurité avec une expertise
 
 ## ⭐ Projets en vedette
 
-Voici les projets dont je suis fier:
+Voici les projets dont H4CK4RI est fier:
 
 | Projet | Description | Stack technologique |
 |--------|-------------|-------------------|
@@ -33,13 +33,13 @@ Voici les projets dont je suis fier:
 ## 📈 Statistiques GitHub
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
-![Statistiques GitHub d'Achbel](https://github-readme-stats.vercel.app/api?username=achbelneri-wq&show_icons=true&theme=radical&hide_border=true)
+![Statistiques GitHub de H4CK4RI](https://github-readme-stats.vercel.app/api?username=achbelneri-wq&show_icons=true&theme=radical&hide_border=true)
 
 ![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=achbelneri-wq&layout=compact&theme=radical&hide_border=true)
 
 <!-- END AUTO-UPDATED SECTION -->
 
-## 🌟 Ce sur quoi je travaille actuellement
+## 🌟 Ce sur quoi H4CK4RI travaille actuellement
 
 - 🔨 Développement **d'outils avancés de test de pénétration**
 - 📖 Apprentissage de la **recherche de zéro-jour et développement d'exploits**
@@ -68,3 +68,5 @@ Je suis toujours intéressé par les discussions sur la recherche en sécurité,
 ---
 
 *"La meilleure défense est une bonne attaque."* ⚔️
+
+**~ H4CK4RI**
