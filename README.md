@@ -60,7 +60,7 @@ Here are some projects I'm proud of:
 
 ## 📫 How to Contact Me
 
-[![Email](https://img.shields.io/badge/ProtonMail-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:achbelx@proton.me)
+[![Email](https://img.shields.io/badge/ProtonMail-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:h4ck4ri@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H4CK4RI)
 
 ## 💬 Let's Connect!
