@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.gif" width="80%" />
+  <img src="header.gif" width="85%" />
 </div>
 
 # Hey there, I'm H4CK4RI 👋
