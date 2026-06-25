@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.gif" width="100%" />
+</div>
+
 # Salut, je suis H4CK4RI 👋
 
 [🇬🇧 English](README.md) | [🇫🇷 Français](README-FR.md)
@@ -28,16 +32,16 @@ Voici les projets dont H4CK4RI est fier:
 
 | Projet | Description | Stack technologique |
 |--------|-------------|-------------------|
-| **[Bientôt](https://github.com/achbelneri-wq)** | Framework d'automatisation des tests de pénétration | Python, Bash |
-| **[Bientôt](https://github.com/achbelneri-wq)** | Collection de writeups et solutions CTF | Python, Documentation |
-| **[Bientôt](https://github.com/achbelneri-wq)** | Outils de recherche en sécurité et POCs | Python, Go |
+| **[Bientôt](https://github.com/H4CK4RI)** | Framework d'automatisation des tests de pénétration | Python, Bash |
+| **[Bientôt](https://github.com/H4CK4RI)** | Collection de writeups et solutions CTF | Python, Documentation |
+| **[Bientôt](https://github.com/H4CK4RI)** | Outils de recherche en sécurité et POCs | Python, Go |
 
 ## 📈 Statistiques GitHub
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
-![Statistiques GitHub de H4CK4RI](https://github-readme-stats.vercel.app/api?username=achbelneri-wq&show_icons=true&theme=radical&hide_border=true)
+![Statistiques GitHub de H4CK4RI](https://github-readme-stats.vercel.app/api?username=H4CK4RI&show_icons=true&theme=radical&hide_border=true)
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=achbelneri-wq&layout=compact&theme=radical&hide_border=true)
+![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK4RI&layout=compact&theme=radical&hide_border=true)
 
 <!-- END AUTO-UPDATED SECTION -->
 
@@ -57,7 +61,7 @@ Voici les projets dont H4CK4RI est fier:
 ## 📫 Comment me contacter
 
 [![Email](https://img.shields.io/badge/ProtonMail-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:achbelx@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achbelneri-wq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H4CK4RI)
 
 ## 💬 Restons en contact!
 

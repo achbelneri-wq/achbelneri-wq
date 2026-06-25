@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.gif" width="100%" />
+</div>
+
 # Hey there, I'm H4CK4RI 👋
 
 [🇬🇧 English](README.md) | [🇫🇷 Français](README-FR.md)
@@ -28,16 +32,16 @@ Here are some projects I'm proud of:
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Coming Soon](https://github.com/achbelneri-wq)** | Penetration testing automation framework | Python, Bash |
-| **[Coming Soon](https://github.com/achbelneri-wq)** | CTF writeups and solutions collection | Python, Documentation |
-| **[Coming Soon](https://github.com/achbelneri-wq)** | Security research tools and POCs | Python, Go |
+| **[Coming Soon](https://github.com/H4CK4RI)** | Penetration testing automation framework | Python, Bash |
+| **[Coming Soon](https://github.com/H4CK4RI)** | CTF writeups and solutions collection | Python, Documentation |
+| **[Coming Soon](https://github.com/H4CK4RI)** | Security research tools and POCs | Python, Go |
 
 ## 📈 GitHub Stats
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
-![H4CK4RI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achbelneri-wq&show_icons=true&theme=radical&hide_border=true)
+![H4CK4RI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4CK4RI&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achbelneri-wq&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK4RI&layout=compact&theme=radical&hide_border=true)
 
 <!-- END AUTO-UPDATED SECTION -->
 
@@ -57,7 +61,7 @@ Here are some projects I'm proud of:
 ## 📫 How to Contact Me
 
 [![Email](https://img.shields.io/badge/ProtonMail-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:achbelx@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achbelneri-wq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H4CK4RI)
 
 ## 💬 Let's Connect!
 
