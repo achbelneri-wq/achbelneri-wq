@@ -1,72 +1,74 @@
-# Salut, je suis H4CK4RI 👋
+# Hey there, I'm H4CK4RI 👋
 
-Bienvenue sur mon profil GitHub! Je suis passionné par le hacking éthique, la cybersécurité et la création de solutions amazones pour sécuriser le monde numérique.
+[🇬🇧 English](README.md) | [🇫🇷 Français](README-FR.md)
 
-## 🚀 À propos de moi
+Welcome to my GitHub profile! I'm passionate about ethical hacking, cybersecurity, and creating amazing solutions to secure the digital world.
 
-Je suis un hacker éthique et spécialiste en cybersécurité avec une expertise en opérations red team, activités black team, tests de pénétration et compétitions CTF. J'adore relever des défis de sécurité complexes, découvrir des vulnérabilités et collaborer avec des talents de la communauté cybersécurité. Quand je ne suis pas en train de hacker, vous me trouverez en train de participer à des défis CTF et de mener des recherches sur les menaces de sécurité émergentes.
+## 🚀 About Me
 
-## 💼 Points forts professionnels
+I'm an ethical hacker and cybersecurity specialist with expertise in red team operations, black team activities, penetration testing, and CTF competitions. I love tackling complex security challenges, discovering vulnerabilities, and collaborating with talented people in the cybersecurity community. When I'm not hacking, you can find me competing in CTF challenges and researching emerging security threats.
 
-- 🔧 Spécialisé en **Tests de pénétration, Opérations Red Team, Recherche en sécurité**
-- 📚 Apprenant continu et passionné par la sécurité open-source
-- 🤝 Toujours ouvert à la collaboration sur des projets de sécurité et de recherche
-- 🎯 Focalisé sur le hacking éthique avec divulgation responsable
+## 💼 Professional Highlights
 
-## 🛠️ Stack technologique
+- 🔧 Specializing in **Penetration Testing, Red Team Operations, Security Research**
+- 📚 Continuous learner and passionate about open-source security
+- 🤝 Always open to collaboration on security projects and research
+- 🎯 Focused on ethical hacking with responsible disclosure
 
-**Langages:** Python, Bash/Shell, JavaScript, Go, C/C++, PowerShell, SQL, Java  
-**Outils de sécurité:** Metasploit, Burp Suite, Wireshark, Nmap, Hydra, Aircrack-ng, OWASP ZAP  
-**Plateformes:** Kali Linux, Parrot OS, Docker, AWS, Azure  
-**Spécialisations:** Exploitation Web, Hacking réseau, Ingénierie inverse, Cryptanalyse, OSINT  
+## 🛠️ Tech Stack
 
-## ⭐ Projets en vedette
+**Languages:** Python, Bash/Shell, JavaScript, Go, C/C++, PowerShell, SQL, Java  
+**Security Tools:** Metasploit, Burp Suite, Wireshark, Nmap, Hydra, Aircrack-ng, OWASP ZAP  
+**Platforms:** Kali Linux, Parrot OS, Docker, AWS, Azure  
+**Specializations:** Web Exploitation, Network Hacking, Reverse Engineering, Cryptanalysis, OSINT  
 
-Voici les projets dont H4CK4RI est fier:
+## ⭐ Featured Projects
 
-| Projet | Description | Stack technologique |
-|--------|-------------|-------------------|
-| **[Bientôt](https://github.com/achbelneri-wq)** | Framework d'automatisation des tests de pénétration | Python, Bash |
-| **[Bientôt](https://github.com/achbelneri-wq)** | Collection de writeups et solutions CTF | Python, Documentation |
-| **[Bientôt](https://github.com/achbelneri-wq)** | Outils de recherche en sécurité et POCs | Python, Go |
+Here are some projects I'm proud of:
 
-## 📈 Statistiques GitHub
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Coming Soon](https://github.com/achbelneri-wq)** | Penetration testing automation framework | Python, Bash |
+| **[Coming Soon](https://github.com/achbelneri-wq)** | CTF writeups and solutions collection | Python, Documentation |
+| **[Coming Soon](https://github.com/achbelneri-wq)** | Security research tools and POCs | Python, Go |
+
+## 📈 GitHub Stats
 
 <!-- AUTO-UPDATED BY GITHUB ACTIONS -->
-![Statistiques GitHub de H4CK4RI](https://github-readme-stats.vercel.app/api?username=achbelneri-wq&show_icons=true&theme=radical&hide_border=true)
+![H4CK4RI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achbelneri-wq&show_icons=true&theme=radical&hide_border=true)
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=achbelneri-wq&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achbelneri-wq&layout=compact&theme=radical&hide_border=true)
 
 <!-- END AUTO-UPDATED SECTION -->
 
-## 🌟 Ce sur quoi H4CK4RI travaille actuellement
+## 🌟 What I'm Currently Working On
 
-- 🔨 Développement **d'outils avancés de test de pénétration**
-- 📖 Apprentissage de la **recherche de zéro-jour et développement d'exploits**
-- 💡 Exploration de la **sécurité des infrastructures cloud**
-- 🏆 Participation à des **défis CTF et compétitions de sécurité**
+- 🔨 Developing **advanced penetration testing tools**
+- 📖 Learning **zero-day research and exploit development**
+- 💡 Exploring **cloud infrastructure security**
+- 🏆 Competing in **CTF challenges and security competitions**
 
-## 🎓 Éducation et certifications
+## 🎓 Education & Certifications
 
-- **Hacking éthique et tests de pénétration** - Apprentissage autodidacte
-- **Participant CTF** - HackTheBox, TryHackMe, CtfTime
-- **Recherche en sécurité** - Recherche continue sur les vulnérabilités et l'analyse
+- **Ethical Hacking and Penetration Testing** - Self-Directed Learning
+- **CTF Competitor** - HackTheBox, TryHackMe, CtfTime
+- **Security Research** - Ongoing vulnerability research and analysis
 
-## 📫 Comment me contacter
+## 📫 How to Contact Me
 
 [![Email](https://img.shields.io/badge/ProtonMail-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:achbelx@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achbelneri-wq)
 
-## 💬 Restons en contact!
+## 💬 Let's Connect!
 
-Je suis toujours intéressé par les discussions sur la recherche en sécurité, la collaboration sur des projets de sécurité, ou simplement discuter de cybersécurité. N'hésitez pas à me contacter - j'aimerais vous entendre!
-
----
-
-**Dernière mise à jour:** Juin 2026
+I'm always interested in discussing security research, collaborating on security projects, or just chatting about cybersecurity. Feel free to reach out—I'd love to hear from you!
 
 ---
 
-*"La meilleure défense est une bonne attaque."* ⚔️
+**Last Updated:** June 2026
+
+---
+
+*"The best defense is a good offense."* ⚔️
 
 **~ H4CK4RI**
